@@ -56,7 +56,7 @@ class MainActivity : AppCompatActivity() {
             Category(
                 text = getString(R.string.btnText_all),
                 textColor = getColor(R.color.green),
-                backgroundColor = getColor(R.color.grey)
+                background = getColor(R.color.grey)
             )
         )
 
@@ -64,7 +64,7 @@ class MainActivity : AppCompatActivity() {
             Category(
                 text = getString(R.string.btnText_party),
                 textColor = getColor(R.color.text_color),
-                backgroundColor = getColor(R.color.grey)
+                background = getColor(R.color.grey)
             )
         )
 
@@ -72,7 +72,7 @@ class MainActivity : AppCompatActivity() {
             Category(
                 text = getString(R.string.btnText_beach),
                 textColor = getColor(R.color.text_color),
-                backgroundColor = getColor(R.color.grey)
+                background = getColor(R.color.grey)
             )
         )
 
@@ -80,7 +80,7 @@ class MainActivity : AppCompatActivity() {
             Category(
                 text = getString(R.string.btnText_category1),
                 textColor = getColor(R.color.text_color),
-                backgroundColor = getColor(R.color.grey)
+                background = getColor(R.color.grey)
             )
         )
 
@@ -88,7 +88,7 @@ class MainActivity : AppCompatActivity() {
             Category(
                 text = getString(R.string.btnText_category2),
                 textColor = getColor(R.color.text_color),
-                backgroundColor = getColor(R.color.grey)
+                background = getColor(R.color.grey)
             )
         )
 
@@ -96,7 +96,7 @@ class MainActivity : AppCompatActivity() {
             Category(
                 text = getString(R.string.btnText_category3),
                 textColor = getColor(R.color.text_color),
-                backgroundColor = getColor(R.color.grey)
+                background = getColor(R.color.grey)
             )
         )
 

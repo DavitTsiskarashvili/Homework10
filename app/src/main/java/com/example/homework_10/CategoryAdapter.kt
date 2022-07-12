@@ -23,7 +23,7 @@ class CategoryAdapter(private var categoryList: MutableList<Category>) :
             val category = categoryList[position]
             btn.text = category.text
             btn.setTextColor(category.textColor)
-            btn.setTextColor(category.backgroundColor)
+            btn.setTextColor(category.background)
             onCategoryClicked?.invoke(category.text)
         }
 

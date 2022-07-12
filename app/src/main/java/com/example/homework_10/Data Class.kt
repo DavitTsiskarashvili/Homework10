@@ -6,8 +6,7 @@ import androidx.annotation.DrawableRes
 data class Category (
     var text: String,
     var textColor: Int,
-    var backgroundColor: Int
-
+    var background: Int
 )
 
 
