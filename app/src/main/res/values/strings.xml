@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Homework9</string>
+    <string name="name">Name</string>
+    <string name="surname">surname</string>
+    <string name="email">Email</string>
+    <string name="btnText_all">all</string>
+    <string name="btnText_party">party</string>
+    <string name="btnText_beach">beach</string>
+    <string name="btnText_camping">camping</string>
+    <string name="btnText_category1">category1</string>
+    <string name="btnText_category2">category2</string>
+    <string name="btnText_category3">category3</string>
+    <string name="description">Belt suit blazer</string>
+    <string name="price">$120</string>
+    <string name="category_all">category_all</string>
+    <string name="category_party">category_party</string>
+    <string name="category_beach">category_beach</string>
+    <string name="category_camping">category_camping</string>
+    <string name="category_1">category_1</string>
+    <string name="category_2">category_2</string>
+    <string name="category_3">category_3</string>
+    <string name="btnId_all">all</string>
+    <string name="btnId_party">party</string>
+    <string name="btnId_beach">beach</string>
+    <string name="btnId_camping">camping</string>
+    <string name="btnId_category1">category1</string>
+    <string name="btnId_category2">category2</string>
+    <string name="btnId_category3">category3</string>
+</resources>
